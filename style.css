@@ -111,3 +111,8 @@ ul li span:hover{
 }
 
 
+@media(max-width:376px){
+    button{
+        padding: 16px 30px;
+    }
+}
