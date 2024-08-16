@@ -110,6 +110,26 @@ ul li span:hover{
     background-color: #edeef0;
 }
 
+.back {
+    background-color: #ff5945;
+    color: #fff; 
+    border: none;
+    padding: 20px 40px; 
+    cursor: pointer;
+    display: block;
+    margin: 30px auto;
+    transition: 0.7s;
+    border-radius: 10px;
+    
+    
+}
+a{
+    text-decoration: none;
+}
+
+.back:hover {
+    background-color: #5238f7; 
+}
 
 @media(max-width:376px){
     button{
